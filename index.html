@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Valorant Tournament Machine</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="machine-container">
+        <div class="machine-full">
+            <div class="machine-header">
+                <div class="sticker-top">RANKED_ONLY</div>
+                <div class="header-inner">
+                    <div class="title-main">VALORANT</div>
+                    <div class="title-sub">EQUIPMENT RANDOMIZER</div>
+                </div>
+            </div>
+
+            <div class="machine-body">
+                <div class="display-screen">
+                    <div class="slot-column">
+                        <span class="slot-tag">ESCUDO</span>
+                        <div class="reel">
+                            <img src="" id="shield-img" class="slot-image" style="display:none;">
+                            <span id="shield-placeholder">?</span>
+                        </div>
+                    </div>
+
+                    <div class="slot-column">
+                        <span class="slot-tag">RANDOM</span>
+                        <div class="reel">
+                            <img src="" id="random-img" class="slot-image" style="display:none;">
+                            <span id="random-placeholder">?</span>
+                        </div>
+                    </div>
+
+                    <div class="slot-column">
+                        <span class="slot-tag">ARMA</span>
+                        <div class="reel">
+                            <img src="" id="weapon-img" class="slot-image" style="display:none;">
+                            <span id="weapon-placeholder">?</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="monitor-deck">
+                    <div id="status-text" class="status-display">SISTEMA EN ESPERA...</div>
+                    <div class="sticker-bottom">Makacos</div>
+                </div>
+            </div>
+            
+            <div class="machine-footer"></div>
+
+            <div class="sticker custom-sticker-1"></div>
+            <div class="sticker custom-sticker-2"></div>
+            <div class="sticker custom-sticker-3"></div>
+        </div>
+
+        <div class="lever-system">
+            <div class="block-1"></div> 
+            <div class="block-2">
+                <div class="lever-arm" id="lever">
+                    <div class="lever-shaft"></div>
+                    <div class="lever-knob"></div> 
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

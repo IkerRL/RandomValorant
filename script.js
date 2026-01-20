@@ -5,7 +5,7 @@ const shieldImages = [
 
 const randomImages = [
     "https://valorantinfo.com/images/es/grafiti-nanomight_valorant_transparent_icon_107829.webp", "https://valorantinfo.com/images/es/grafiti-tecnicamente_valorant_transparent_icon_107809.webp", "https://valorantinfo.com/images/es/grafiti-recibido-cuac_valorant_transparent_icon_105484.webp", "https://valorantinfo.com/images/es/grafiti-marcate-un-baile_valorant_gif_98518.gif", "https://valorantinfo.com/images/es/grafiti-gato-avergonzado_valorant_transparent_icon_95077.webp",
-    "https://valorantinfo.com/images/es/grafiti-bombastico_valorant_gif_80238.gif", "https://valorantinfo.com/images/es/grafiti-valiant-hero_valorant_gif_61992.gif", "https://valorantinfo.com/images/es/grafiti-ya-veo_valorant_transparent_icon_59166.webp", "https://valorantinfo.com/images/es/grafiti-hasta-nunqui_valorant_gif_53241.gif", "r10.png"
+    "https://valorantinfo.com/images/es/grafiti-bombastico_valorant_gif_80238.gif", "https://valorantinfo.com/images/es/grafiti-valiant-hero_valorant_gif_61992.gif", "https://valorantinfo.com/images/es/grafiti-ya-veo_valorant_transparent_icon_59166.webp", "https://valorantinfo.com/images/es/grafiti-hasta-nunqui_valorant_gif_53241.gif", "perrete.png"
 ];
 
 const weaponImages = [
